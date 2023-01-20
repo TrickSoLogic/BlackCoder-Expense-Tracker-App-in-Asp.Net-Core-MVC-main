@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BlackCoderExpense Tracker.props" />
+</Project>
